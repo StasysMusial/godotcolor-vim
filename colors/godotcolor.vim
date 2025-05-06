@@ -35,7 +35,7 @@ hi IncSearch       guifg=#C4BE89 guibg=#000000
 
 hi Keyword         guifg=#F92672               gui=bold
 hi Label           guifg=#E6DB74               gui=none
-hi Macro           guifg=#C4BE89               gui=italic
+hi Macro           guifg=#FD971F               gui=italic
 hi SpecialKey      guifg=#66D9EF               gui=italic
 
 hi MatchParen      guifg=#000000 guibg=#FD971F gui=bold
@@ -92,7 +92,7 @@ hi TabLine         guibg=#1B1D1E guifg=#808080 gui=none
 hi Normal          guifg=#F8F8F2 guibg=#212530
 hi Comment         guifg=#7E8E91
 hi CursorLine                    guibg=#293739
-hi CursorLineNr    guifg=#FD971F               gui=none
+hi CursorLineNr    guifg=#C4BE89               gui=none
 hi CursorColumn                  guibg=#293739
 hi ColorColumn                   guibg=#212530
 hi LineNr          guifg=#465457 guibg=#212530

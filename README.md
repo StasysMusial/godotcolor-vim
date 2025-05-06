@@ -6,6 +6,8 @@ Theme inspired by GDScript editor in Godot Engine.
 Theme file has been changed on top of the one from this repository:  
 https://github.com/tomasr/molokai
 
+Theme was edited to invert status bar colors for better custom statusbar support.
+
 ## Screenshots
 
 ### Python

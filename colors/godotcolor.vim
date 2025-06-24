@@ -90,7 +90,7 @@ hi TabLine         guibg=#1B1D1E guifg=#808080 gui=none
 
 "hi Normal          guifg=#CDCFD2 guibg=#181C22"c colours most of the window
 "hi NormalNC        guifg=#CDCFD2 guibg=#0D1013"c colours most of the window
-hi Normal          guifg=#CDCFD2 guibg=#171717"c colours most of the window
+hi Normal          guifg=#CDCFD2 guibg=#121212"c colours most of the window
 hi Comment         guifg=#75787D"c
 hi CursorLine                    guibg=#2D3138"c
 hi CursorLineNr    guifg=#73D1DC               gui=none"c interpolation between light green and dark purple
